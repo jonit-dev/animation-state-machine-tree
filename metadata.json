@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Animation State Tree Preview",
+  "description": "An interactive web application that provides a visual editor for creating and previewing animation state machines, similar to Unity's Animator. It uses React Three Fiber to display a 3D model and allows users to define states, transitions, and conditions in a node-based graph.",
+  "requestFramePermissions": []
+}
